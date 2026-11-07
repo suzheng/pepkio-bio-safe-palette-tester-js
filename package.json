@@ -2,6 +2,7 @@
   "name": "pepkio-bio-safe-palette-tester",
   "version": "0.1.0",
   "description": "Call the Pepkio Bio-Safe Palette Tester REST API from Node.js with typed ESM imports and a CLI.",
+  "readme": "README_NPM.md",
   "type": "module",
   "engines": {
     "node": ">=18"
@@ -20,6 +21,7 @@
   "files": [
     "dist",
     "README.md",
+    "README_NPM.md",
     "LICENSE"
   ],
   "scripts": {
@@ -51,7 +53,11 @@
     "typescript",
     "node",
     "rest-api",
-    "scientific-computing"
+    "scientific-computing",
+    "ciede2000",
+    "protanopia",
+    "deuteranopia",
+    "tritanopia"
   ],
   "author": "Pepkio Team",
   "license": "MIT",
