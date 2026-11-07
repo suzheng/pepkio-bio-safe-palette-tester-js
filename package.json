@@ -16,7 +16,7 @@
     }
   },
   "bin": {
-    "pepkio-bio-safe-palette-tester": "./dist/cli.js"
+    "pepkio-bio-safe-palette-tester": "dist/cli.js"
   },
   "files": [
     "dist",
